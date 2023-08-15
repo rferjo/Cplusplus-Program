@@ -14,6 +14,7 @@ I would add more comment lines as to whats happening within the code for futher 
 Knowing where to put the private and public codes is where I had a challenge but after going back to zybooks and looking further I was able to figure it out.
 
 # What skills from this project will be particularly transferable to other projects or course work?
+Really making use of the readinput & printItem will be transferable to other projects
 
 
 # How did you make this program maintainable, readable, and adaptable?
